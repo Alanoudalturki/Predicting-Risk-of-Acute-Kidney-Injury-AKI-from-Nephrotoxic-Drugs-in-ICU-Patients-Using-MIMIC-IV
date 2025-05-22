@@ -100,11 +100,15 @@ This project develops and evaluates machine learning models to predict the risk 
 
 ## Skills Demonstrated
 
-- Predictive modeling  
-- Clinical cohort building from real-world ICU data  
-- Threshold tuning and model evaluation  
-- Feature attribution and model transparency  
-- Health data science and explainable AI (XAI)
+- Clinical machine learning using real-world ICU data (MIMIC-IV)
+- Predictive modeling and model evaluation (AUC, precision, sensitivity, F1)
+- Threshold tuning for sensitivity-specificity tradeoffs
+- Cohort construction and clinical feature engineering
+- Explainable AI (XAI) using SHAP for model interpretability
+- Risk stratification for adverse drug outcomes
+- Health informatics and ICU decision support
+- SQL-based data extraction from EHR databases
+- Evidence-based AI implementation in clinical research
 
 ---
 
